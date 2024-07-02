@@ -38,3 +38,8 @@ Here's the list of all tools used in this tutorial:
 # Code :snake:
 
 Check out [the Jupyter Notebook](./notebooks/titanic.ipynb) for the full tutorial.
+
+# References :point_left:
+
+1. The Titanic dataset is from [here](https://github.com/datasciencedojo/datasets/blob/master/titanic.csv).
+2. OpenAI Cookbook for [How to fine-tune chat models](https://github.com/openai/openai-cookbook/blob/448a0595b84ced3bebc9a1568b625e748f9c1d60/examples/How_to_finetune_chat_models.ipynb)
