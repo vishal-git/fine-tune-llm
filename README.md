@@ -35,3 +35,6 @@ Here's the list of all tools used in this tutorial:
 2. [OpenAI API](https://platform.openai.com/docs/introduction) for fine-tuning a GPT model
 3. [Gradio](https://www.gradio.app/docs) for creating a web-app
 
+# Code :snake:
+
+Checkout [the Jupyter Notebook](./notebooks/titanic.ipynb) for the full tutorial.
