@@ -37,4 +37,4 @@ Here's the list of all tools used in this tutorial:
 
 # Code :snake:
 
-Checkout [the Jupyter Notebook](./notebooks/titanic.ipynb) for the full tutorial.
+Check out [the Jupyter Notebook](./notebooks/titanic.ipynb) for the full tutorial.
